@@ -1,6 +1,6 @@
 ## Hi, I'm [Dragos-Paul Vecerdea.](https://dragosvecerdea.github.io) 
 
-Student 🎓 </br>
+Computer Science & Engineering Student 🎓 </br>
 Future Junior Software Engineer at Bloomberg 👔 </br>
 Philosophy Enthusiast 📚 </br>
 Hobby [Programming Blogging](https://dvecerdea.medium.com/) 🗞️ </br>
