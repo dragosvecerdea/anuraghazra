@@ -1,12 +1,14 @@
-### Hi there, I'm [Dragos!](https://dragosvecerdea.github.io) 
+## Hi, I'm [Dragos-Paul Vecerdea.](https://dragosvecerdea.github.io) 
 
-<br />
-<br />
+Student 🎓 </br>
+Future Junior Software Engineer at Bloomberg 👔 </br>
+Philosophy Enthusiast 📚 </br>
+Hobby [Programming Blogging](https://dvecerdea.medium.com/) 🗞️ </br>
+WebDev Technologies ❤️ </br> 
+Competitive Programming 🔥 </br>
 
-Hi, I'm Dragos-Paul Vecerdea, a passionate self-taught frontEnd web developer from India.
 
-- I’m currently working on [renderless-components]()
-- I’m currently learning Typescript
+
 
 **Languages and Tools:**  
 
