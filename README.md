@@ -3,12 +3,10 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Dragos-Paul Vecerdea, a passionate self-taught frontEnd web developer from India.
 
-- 🔭 I’m currently working on [renderless-components]()
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats]()
-- 💬 Ask me about anything [here]()
+- I’m currently working on [renderless-components]()
+- I’m currently learning Typescript
 
 **Languages and Tools:**  
 
@@ -21,5 +19,3 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dragosvecerdea&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragosvecerdea&layout=compact&theme=material-palenight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragosvecerdeaa&repo=github-readme-stats&theme=material-palenight" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dragosvecerdeaa&repo=anuraghazra.github.io&theme=material-palenight" />
