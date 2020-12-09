@@ -1,4 +1,4 @@
-## Hi, I'm [Dragos-Paul Vecerdea.](https://dragosvecerdea.github.io) 
+## Hi, I'm [Dragos-Paul Vecerdea](https://dragosvecerdea.github.io) 
 
 Computer Science & Engineering Student 🎓 </br>
 Future Junior Software Engineer at Bloomberg 👔 </br>
@@ -6,6 +6,9 @@ Philosophy Enthusiast 📚 </br>
 Hobby [Programming Blogging](https://dvecerdea.medium.com/) 🗞️ </br>
 WebDev Technologies ❤️ </br> 
 Competitive Programming 🔥 </br>
+Currently working on [CLI for Advent of Code](https://github.com/dragosvecerdea/Advent-of-Code-CLI) 🔭 </br>
+
+
 
 
 
