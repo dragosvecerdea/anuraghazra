@@ -5,26 +5,24 @@
  </div>
 
 </br>
-</br>
 
-🎓 Computer Science Student
-👔 Future Junior Software Engineer at Bloomberg
-📚 Philosophy Enthusiast
-🗞️ Hobby [Programming Blogging](https://dvecerdea.medium.com/)
-❤️  WebDev Technologies
-🔥 Competitive Programming
+🎓 Computer Science Student</br>
+👔 Future Junior Software Engineer at Bloomberg</br>
+📚 Philosophy Enthusiast</br>
+🗞️ Hobby [Programming Blogging](https://dvecerdea.medium.com/)</br>
+❤️  WebDev Technologies</br>
+🔥 Competitive Programming</br>
 
 
 ## Currently working on 🔭
 
-- [CLI for Advent of Code](https://github.com/dragosvecerdea/Advent-of-Code-CLI)
+- [Advent of Code CLI](https://github.com/dragosvecerdea/Advent-of-Code-CLI)
 - [Personal Portofolio](https://github.com/dragosvecerdea/dragosvecerdea.github.io)
 
 ## Languages
 
 <img style="margin=10px;" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
-</br>
 </br>
 
 ## Github  
