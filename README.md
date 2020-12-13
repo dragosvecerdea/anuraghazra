@@ -19,6 +19,6 @@
 - [Advent of Code CLI](https://github.com/dragosvecerdea/Advent-of-Code-CLI)
 - [Personal Portofolio](https://github.com/dragosvecerdea/dragosvecerdea.github.io)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragosvecerdea&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragosvecerdea&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=My%20Github%20Stats" alt="Dragos's github stats" />
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragosvecerdea&layout=compact&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragosvecerdea&theme=tokyonight&hide=HTML,CSS&custom_title=Languages%20I%20use%20the%20most">
